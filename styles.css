@@ -1,1 +1,36 @@
 /* your code here */
+.content{
+	background-color: black;
+	height: 300px;
+}
+
+.top{
+	padding: 20px;
+	background-color: brown;
+	display: flex;
+	justify-content:  space-between;
+}
+
+.logo-details{
+	
+	padding:2px;
+	font-size: 25px;
+}
+
+.logo_name{
+	color: white;
+}
+
+.media-icons{
+	
+}
+
+.link-boxes{
+	background-color: violet;
+}
+
+.bottom-details{
+	background-color: grey;
+	color: white;
+	
+}
