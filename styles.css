@@ -20,12 +20,17 @@
 	color: white;
 }
 
+.media-icons{
+	display: flex;
+}
+
 .media-icons img{
 	width: 40px;
 	
 }
  li{
 	 list-style-type: none;
+	 color: gray;
  }
 
 .link-boxes{
