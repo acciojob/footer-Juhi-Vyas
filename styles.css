@@ -5,8 +5,7 @@
 }
 
 .top{
-	padding: 20px;
-	background-color: brown;
+	padding: 25px;
 	display: flex;
 	justify-content:  space-between;
 }
@@ -21,12 +20,18 @@
 	color: white;
 }
 
-.media-icons{
+.media-icons img{
+	width: 40px;
 	
 }
+ li{
+	 list-style-type: none;
+ }
 
 .link-boxes{
-	background-color: violet;
+	color: white;
+	display: flex;
+	justify-content: 
 }
 
 .bottom-details{
